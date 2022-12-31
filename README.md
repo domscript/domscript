@@ -105,6 +105,13 @@
     />
   </a>
 </p>
+    <img
+      src="https://www.codewars.com/users/domscript/badges/large"
+      width="400"
+      height="40"
+      alt="Codewars Profile Badge"
+    />
+
 
 ## Socials
 
